@@ -1,7 +1,6 @@
 ### Hi, I'm  Tamanna Islam 👋
 
 #### I am Web Developer
-![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFn4izGwW62yg/profile-displaybackgroundimage-shrink_200_800/0/1649356281241?e=1654732800&v=beta&t=-mEG--nw4f0kXB6mhCSSTsCWC7IFxQHzXVanuiiCqw8)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanna141101&label=Profile%20views&color=0e75b6&style=flat" alt="tamanna141101" /> </p>
