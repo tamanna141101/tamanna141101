@@ -5,6 +5,8 @@
   />
 </p>
 
+<p align="center"> <a href="https://linkedin.com/in/tamannaislam14" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ttamanna559@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamanna141101&label=Profile%20Views&color=db2777&style=flat" alt="Profile Views"/>
 </p>
@@ -13,82 +15,44 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science & Engineering graduate** passionate about **software development, web development, and problem solving**.
+I'm a **Computer Science & Engineering graduate** interested in **software engineering, web development, artificial intelligence, machine learning, and research**.
 
-Currently, I'm strengthening my skills in **JavaScript, TypeScript, and modern web development** by learning, practicing, and building real-world projects.
-
-* 🎓 Computer Science & Engineering Graduate
-* 💻 Aspiring Software Engineer
-* 🌱 Currently learning **JavaScript, TypeScript & Web Development**
-* 🚀 Building real-world projects to improve my practical skills
-* 🧩 Practicing programming and problem solving regularly
-* 💡 Interested in **Software Engineering, Web Development & Problem Solving**
-
----
+Currently, I'm strengthening my skills in **JavaScript, TypeScript, modern web development, and machine learning** through continuous learning, research, and hands-on projects.
 
 ## 🚀 Currently Working On
 
 * 🌐 Building responsive web applications
 * 📚 Improving my **JavaScript & TypeScript** skills
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🔬 Working on **research projects in Machine Learning**
 * 🧩 Practicing programming and problem solving
-* ✈️ Building and improving **Tour & Travel** projects
-* 🚀 Developing projects to gain practical software development experience
+* 🚀 Building projects to gain practical software development experience
+
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🔬 Research & Interests
 
-<p align="left">
+I'm interested in applying **Artificial Intelligence and Machine Learning** to real-world problems.
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-</a>&nbsp;&nbsp;
+* 🤖 Machine Learning & Artificial Intelligence
+* 🧬 Bioinformatics & Computational Biology
+* 🔎 ML-based Biomarker Discovery
+* 🧪 Cancer Research & Data Analysis
+* 📊 Data-driven Problem Solving
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>&nbsp;&nbsp;
+---
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>&nbsp;&nbsp;
+## 📚 Research & Publications
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>&nbsp;&nbsp;
+I have contributed to **2 research papers** focusing on **Machine Learning, Artificial Intelligence, Bioinformatics, and cancer-related research**.
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-</a>&nbsp;&nbsp;
+* 📄 **A Hybrid Machine Learning and Deep Learning Approach for Classifying Seven Major Cancers Using Symptom and Gene Expression Profiles** — [Read Paper](https://link.springer.com/chapter/10.1007/978-3-032-27754-1_19)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-</a>&nbsp;&nbsp;
+* 📄 **Gastrointestinal Cancer Classification by Symptomatology and Gene Expression Data Using Machine Learning** — [Read Paper](https://ieeexplore.ieee.org/document/10951077)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-</a>&nbsp;&nbsp;
 
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-</p>
+## 🛠️ Skills & Technologies <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/> </a>&nbsp;&nbsp; <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/> </a>&nbsp;&nbsp; <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> </a>&nbsp;&nbsp; <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/> </a>&nbsp;&nbsp; <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/> </a>&nbsp;&nbsp; <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/> </a>&nbsp;&nbsp; <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/> </a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/> </a>&nbsp;&nbsp; <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> </a> </p> 
 
 ---
 
@@ -189,31 +153,7 @@ https://github.com/tamanna141101/University_managment_ERP
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/tamannaislam14" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-
-
-
-<a href="mailto:ttamanna559@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
-</a>
-
-</p>
-
----
-
-## 📫 Contact
-
-📧 **Email:** `ttamanna559@gmail.com `
-
-📍 **Location:** Narayanganj, Bangladesh
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,40:581c87,70:24002e,100:000000&height=120&section=footer" width="100%"/>
