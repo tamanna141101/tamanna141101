@@ -140,11 +140,17 @@ https://github.com/tamanna141101/University_managment_ERP
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamanna141101&show_icons=true&theme=radical&hide_border=true" alt="Tamanna's GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tamanna141101&show_icons=true&theme=radical&hide_border=true"
+    alt="Tamanna's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna141101&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna141101&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
