@@ -5,7 +5,15 @@
   />
 </p>
 
-<p align="center"> <a href="https://linkedin.com/in/tamannaislam14" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ttamanna559@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/tamannaislam14" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ttamanna559@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/📍%20Narayanganj%2C%20Bangladesh-db2777?style=for-the-badge" alt="Location"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamanna141101&label=Profile%20Views&color=db2777&style=flat" alt="Profile Views"/>
@@ -65,57 +73,196 @@ I have contributed to **2 research papers** focusing on **Machine Learning, Arti
 
 ---
 
-### ✈️ Tour & Travel Website
+# 🌦️ Weather App
 
-A tourism and travel website developed with a user-friendly interface for exploring travel-related information.
+A simple and responsive weather application that displays real-time weather information using a weather API.
 
-**🛠️ Technologies:**
-`HTML` • `CSS` • `JavaScript` • `PHP`
+## 📌 Overview
 
-🔗 **GitHub Repository:**
-https://github.com/tamanna141101/Tour-and-Travel
+This project allows users to search for a city and view its current weather information through a clean and user-friendly interface.
 
-🖥️ **Run Locally on Computer**
+## 🛠️ Technologies
 
----
+* HTML5
+* CSS3
+* JavaScript
+* Weather API
 
-### 🌦️ Weather App
+## ✨ Features
 
-A weather application that displays real-time weather information using an API.
+* 🌍 Search weather by city
+* 🌡️ Display current temperature
+* 💧 Show humidity information
+* 💨 Display wind information
+* 📱 Responsive design
+* ⚡ Real-time weather data
 
-**🛠️ Technologies:**
-`HTML` • `CSS` • `JavaScript` • `Weather API`
+## 💻 How to Run Locally
 
-🔗 **GitHub Repository:**
-https://github.com/tamanna141101/Weather-App
+1. Clone the repository:
 
-🌐 **Live Demo:**
+```bash
+git clone https://github.com/tamanna141101/Weather-App.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+4. For a better development experience, use **VS Code Live Server**.
+
+## 🌐 Live Demo
+
 https://tamanna141101.github.io/Weather-App/
 
----
+## 🔗 GitHub Repository
 
-### 🎭 Facial Emotion Detection
+https://github.com/tamanna141101/Weather-App
 
-A machine learning project focused on recognizing human facial emotions using computer vision and machine learning techniques.
 
-**🛠️ Technologies:**
-`Python` • `Machine Learning` • `Computer Vision`
+# ✈️ Tour & Travel Website
 
-🔗 **GitHub Repository:**
+A tourism and travel website designed to provide users with travel-related information through a simple and user-friendly interface.
+
+## 📌 Overview
+
+This project is a web-based tourism platform where users can explore travel destinations and access useful tourism-related information.
+
+## 🛠️ Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+
+## ✨ Features
+
+* 🌍 Travel destination information
+* 🧭 User-friendly navigation
+* 📱 Responsive interface
+* 🖼️ Travel-focused design
+* 📄 Dynamic web pages using PHP
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/tamanna141101/Tour-and-Travel.git
+```
+
+2. Install **XAMPP**.
+
+3. Copy the project folder into:
+
+```text
+C:\xampp\htdocs\
+```
+
+4. Open the **XAMPP Control Panel**.
+
+5. Start **Apache**.
+
+6. If the project uses a database, start **MySQL** and import the provided SQL file through phpMyAdmin.
+
+7. Open your browser and visit:
+
+```text
+http://localhost/Tour-and-Travel/
+```
+
+## 🔗 GitHub Repository
+
+https://github.com/tamanna141101/Tour-and-Travel
+
+# 🎭 Facial Emotion Detection
+
+A machine learning project that detects human facial emotions using computer vision and machine learning techniques.
+
+## 📌 Overview
+
+This project analyzes facial expressions and identifies different human emotions using a trained machine learning model.
+
+## 🛠️ Technologies
+
+* Python
+* Machine Learning
+* Computer Vision
+* OpenCV
+
+## ✨ Features
+
+* 😊 Facial emotion detection
+* 📷 Image/camera-based detection
+* 🤖 Machine learning model
+* 👁️ Computer vision processing
+* 📊 Emotion classification
+
+## 📦 Dependencies
+
+Install the required Python packages using:
+
+```bash
+pip install -r requirements.txt
+```
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/tamanna141101/Facial_Emotion_Detection.git
+```
+
+2. Open the project folder:
+
+```bash
+cd Facial_Emotion_Detection
+```
+
+3. Create a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+4. Activate the virtual environment.
+
+5. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+6. Run the main Python file:
+
+```bash
+python main.py
+```
+
+> Replace `main.py` with the actual entry file if your project uses a different filename.
+
+## 🔗 GitHub Repository
+
 https://github.com/tamanna141101/Facial_Emotion_Detection
 
-🖥️ **Run Locally on Computer**
 
----
-
-### 🎓 University Management ERP
+# 🎓 University Management ERP
 
 A Java-based University Management ERP developed as a group academic project for managing university-related academic information.
 
-**🛠️ Technologies:**
-`Java` • `JavaFX` • `Maven` • `SQL`
+## 📌 Overview
 
-**✨ Highlights:**
+This desktop application provides different features for managing university academic activities through a JavaFX-based user interface and database integration.
+
+## 🛠️ Technologies
+
+* Java
+* JavaFX
+* Maven
+* SQL
+
+## ✨ Features
 
 * 📚 Course Management
 * 🗓️ Routine Management
@@ -123,10 +270,36 @@ A Java-based University Management ERP developed as a group academic project for
 * 🖥️ JavaFX Desktop Interface
 * ⚙️ Maven-based Project
 
-🔗 **GitHub Repository:**
+## 📦 Dependencies
+
+Project dependencies are managed using **Maven** through the `pom.xml` file.
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/tamanna141101/University_managment_ERP.git
+```
+
+2. Open the project in **IntelliJ IDEA** or another Java IDE.
+
+3. Make sure **Java JDK** and **Maven** are installed.
+
+4. Install the project dependencies:
+
+```bash
+mvn install
+```
+
+5. Configure the database connection if required.
+
+6. Run the main Java application from your IDE.
+
+## 🔗 GitHub Repository
+
 https://github.com/tamanna141101/University_managment_ERP
 
-🖥️ **Run Locally on Computer**
 
 ---
 
@@ -138,20 +311,6 @@ https://github.com/tamanna141101/University_managment_ERP
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tamanna141101&show_icons=true&theme=radical&hide_border=true"
-    alt="Tamanna's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanna141101&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tamanna141101&theme=radical&hide_border=true" alt="GitHub Streak"/>
