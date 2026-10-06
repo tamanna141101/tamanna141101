@@ -121,11 +121,6 @@ A tourism website where users can explore travel destinations and access travel-
 
 🔗 [GitHub Repository](https://github.com/tamanna141101/Tour-and-Travel)
 
----
-
-<p align="center">
-  <i>More projects and experiments are available on my GitHub profile.</i>
-</p>
 
 
 ---
