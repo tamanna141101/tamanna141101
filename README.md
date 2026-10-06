@@ -93,24 +93,6 @@ A Java-based desktop application developed as an academic project for managing u
 
 🔗 [GitHub Repository](https://github.com/tamanna141101/University_managment_ERP)
 
----
-
-### 🌦️ Weather App
-A responsive web application that provides real-time weather information using a weather API.
-
-**Tech Stack:** HTML • CSS • JavaScript • Weather API
-
-🔗 [Live Demo](https://tamanna141101.github.io/Weather-App/)  
-🔗 [GitHub Repository](https://github.com/tamanna141101/Weather-App)
-
----
-
-### 🏥 Hospital Appointment System
-A Java-based project designed to manage hospital appointment-related activities.
-
-**Tech Stack:** Java
-
-🔗 [GitHub Repository](https://github.com/tamanna141101/Hospital-Appointment-system)
 
 ---
 
