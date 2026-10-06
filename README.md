@@ -64,241 +64,68 @@ I have contributed to **2 research papers** focusing on **Machine Learning, Arti
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<p align="center">
-  A collection of projects showcasing my experience in web development,
-  software development, and machine learning.
-</p>
+Here are some of the projects I've built while learning, experimenting, and growing as a software developer.
+
+### 💻 Fit Log — Workout Planning Web App
+A modern workout library and planning application built with Next.js and TypeScript.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • REST API • Local Storage
+
+🔗 [GitHub Repository](https://github.com/tamanna141101/fit-log)
 
 ---
 
-# 🌦️ Weather App
+### 🤖 Facial Emotion Detection
+A machine learning project that detects and classifies human facial emotions using computer vision techniques.
 
-A simple and responsive weather application that displays real-time weather information using a weather API.
+**Tech Stack:** Python • Machine Learning • OpenCV • Jupyter Notebook
 
-## 📌 Overview
+🔗 [GitHub Repository](https://github.com/tamanna141101/Facial_Emotion_Detection)
 
-This project allows users to search for a city and view its current weather information through a clean and user-friendly interface.
+---
 
-## 🛠️ Technologies
+### 🎓 University Management ERP
+A Java-based desktop application developed as an academic project for managing university-related activities.
 
-* HTML5
-* CSS3
-* JavaScript
-* Weather API
+**Tech Stack:** Java • JavaFX • Maven • SQL
 
-## ✨ Features
+🔗 [GitHub Repository](https://github.com/tamanna141101/University_managment_ERP)
 
-* 🌍 Search weather by city
-* 🌡️ Display current temperature
-* 💧 Show humidity information
-* 💨 Display wind information
-* 📱 Responsive design
-* ⚡ Real-time weather data
+---
 
-## 💻 How to Run Locally
+### 🌦️ Weather App
+A responsive web application that provides real-time weather information using a weather API.
 
-1. Clone the repository:
+**Tech Stack:** HTML • CSS • JavaScript • Weather API
 
-```bash
-git clone https://github.com/tamanna141101/Weather-App.git
-```
+🔗 [Live Demo](https://tamanna141101.github.io/Weather-App/)  
+🔗 [GitHub Repository](https://github.com/tamanna141101/Weather-App)
 
-2. Open the project folder.
+---
 
-3. Open `index.html` in your browser.
+### 🏥 Hospital Appointment System
+A Java-based project designed to manage hospital appointment-related activities.
 
-4. For a better development experience, use **VS Code Live Server**.
+**Tech Stack:** Java
 
-## 🌐 Live Demo
+🔗 [GitHub Repository](https://github.com/tamanna141101/Hospital-Appointment-system)
 
-https://tamanna141101.github.io/Weather-App/
+---
 
-## 🔗 GitHub Repository
+### ✈️ Tour & Travel Website
+A tourism website where users can explore travel destinations and access travel-related information.
 
-https://github.com/tamanna141101/Weather-App
+**Tech Stack:** HTML • CSS • JavaScript • PHP
 
+🔗 [GitHub Repository](https://github.com/tamanna141101/Tour-and-Travel)
 
-# ✈️ Tour & Travel Website
+---
 
-A tourism and travel website designed to provide users with travel-related information through a simple and user-friendly interface.
-
-## 📌 Overview
-
-This project is a web-based tourism platform where users can explore travel destinations and access useful tourism-related information.
-
-## 🛠️ Technologies
-
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-
-## ✨ Features
-
-* 🌍 Travel destination information
-* 🧭 User-friendly navigation
-* 📱 Responsive interface
-* 🖼️ Travel-focused design
-* 📄 Dynamic web pages using PHP
-
-## 💻 How to Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/tamanna141101/Tour-and-Travel.git
-```
-
-2. Install **XAMPP**.
-
-3. Copy the project folder into:
-
-```text
-C:\xampp\htdocs\
-```
-
-4. Open the **XAMPP Control Panel**.
-
-5. Start **Apache**.
-
-6. If the project uses a database, start **MySQL** and import the provided SQL file through phpMyAdmin.
-
-7. Open your browser and visit:
-
-```text
-http://localhost/Tour-and-Travel/
-```
-
-## 🔗 GitHub Repository
-
-https://github.com/tamanna141101/Tour-and-Travel
-
-# 🎭 Facial Emotion Detection
-
-A machine learning project that detects human facial emotions using computer vision and machine learning techniques.
-
-## 📌 Overview
-
-This project analyzes facial expressions and identifies different human emotions using a trained machine learning model.
-
-## 🛠️ Technologies
-
-* Python
-* Machine Learning
-* Computer Vision
-* OpenCV
-
-## ✨ Features
-
-* 😊 Facial emotion detection
-* 📷 Image/camera-based detection
-* 🤖 Machine learning model
-* 👁️ Computer vision processing
-* 📊 Emotion classification
-
-## 📦 Dependencies
-
-Install the required Python packages using:
-
-```bash
-pip install -r requirements.txt
-```
-
-## 💻 How to Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/tamanna141101/Facial_Emotion_Detection.git
-```
-
-2. Open the project folder:
-
-```bash
-cd Facial_Emotion_Detection
-```
-
-3. Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-4. Activate the virtual environment.
-
-5. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-6. Run the main Python file:
-
-```bash
-python main.py
-```
-
-> Replace `main.py` with the actual entry file if your project uses a different filename.
-
-## 🔗 GitHub Repository
-
-https://github.com/tamanna141101/Facial_Emotion_Detection
-
-
-# 🎓 University Management ERP
-
-A Java-based University Management ERP developed as a group academic project for managing university-related academic information.
-
-## 📌 Overview
-
-This desktop application provides different features for managing university academic activities through a JavaFX-based user interface and database integration.
-
-## 🛠️ Technologies
-
-* Java
-* JavaFX
-* Maven
-* SQL
-
-## ✨ Features
-
-* 📚 Course Management
-* 🗓️ Routine Management
-* 🗄️ Database Integration
-* 🖥️ JavaFX Desktop Interface
-* ⚙️ Maven-based Project
-
-## 📦 Dependencies
-
-Project dependencies are managed using **Maven** through the `pom.xml` file.
-
-## 💻 How to Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/tamanna141101/University_managment_ERP.git
-```
-
-2. Open the project in **IntelliJ IDEA** or another Java IDE.
-
-3. Make sure **Java JDK** and **Maven** are installed.
-
-4. Install the project dependencies:
-
-```bash
-mvn install
-```
-
-5. Configure the database connection if required.
-
-6. Run the main Java application from your IDE.
-
-## 🔗 GitHub Repository
-
-https://github.com/tamanna141101/University_managment_ERP
+<p align="center">
+  <i>More projects and experiments are available on my GitHub profile.</i>
+</p>
 
 
 ---
