@@ -62,48 +62,6 @@ I have contributed to **2 research papers** focusing on **Machine Learning, Arti
 
 ## 🛠️ Skills & Technologies <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/> </a>&nbsp;&nbsp; <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/> </a>&nbsp;&nbsp; <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> </a>&nbsp;&nbsp; <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/> </a>&nbsp;&nbsp; <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/> </a>&nbsp;&nbsp; <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/> </a>&nbsp;&nbsp; <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/> </a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/> </a>&nbsp;&nbsp; <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> </a> </p> 
 
----
-
-## 🚀 Featured Projects
-
-Here are some of the projects I've built while learning, experimenting, and growing as a software developer.
-
-### 💻 Fit Log — Workout Planning Web App
-A modern workout library and planning application built with Next.js and TypeScript.
-
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS • REST API • Local Storage
-
-🔗 [GitHub Repository](https://github.com/tamanna141101/fit-log)
-
----
-
-### 🤖 Facial Emotion Detection
-A machine learning project that detects and classifies human facial emotions using computer vision techniques.
-
-**Tech Stack:** Python • Machine Learning • OpenCV • Jupyter Notebook
-
-🔗 [GitHub Repository](https://github.com/tamanna141101/Facial_Emotion_Detection)
-
----
-
-### 🎓 University Management ERP
-A Java-based desktop application developed as an academic project for managing university-related activities.
-
-**Tech Stack:** Java • JavaFX • Maven • SQL
-
-🔗 [GitHub Repository](https://github.com/tamanna141101/University_managment_ERP)
-
-
----
-
-### ✈️ Tour & Travel Website
-A tourism website where users can explore travel destinations and access travel-related information.
-
-**Tech Stack:** HTML • CSS • JavaScript • PHP
-
-🔗 [GitHub Repository](https://github.com/tamanna141101/Tour-and-Travel)
-
-
 
 ---
 
